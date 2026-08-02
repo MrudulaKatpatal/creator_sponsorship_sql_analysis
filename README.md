@@ -10,6 +10,7 @@ The database contains:
 - 201 creator-campaign assignments
 - 346 sponsored content posts
 - 201 payment records
+  
 Note: This project uses synthetically generated data created for educational and portfolio purposes. It does not contain real creator, brand, or company information.
 
 ## Business problem
