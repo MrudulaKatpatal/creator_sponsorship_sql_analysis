@@ -1,4 +1,4 @@
-# Creator Sponsorship Analytics — SQL Server Project
+# Creator Sponsorship Analytics : SQL Server Project
 
 ## Project overview
 This project analyzes creator-brand sponsorship campaigns across Instagram, YouTube, LinkedIn, and TikTok.
