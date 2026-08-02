@@ -61,19 +61,3 @@ creator-sponsorship-sql-project/
     ├── payments.csv
     └── platforms.csv
 ```
-
-## Suggested resume entry
-**Creator Sponsorship Analytics | SQL Server**
-
-- Designed a relational SQL Server database to analyze creator-brand sponsorship campaigns across four social platforms.
-- Wrote analytical queries using JOINs, CTEs, CASE expressions, aggregate functions, and window functions to evaluate campaign ROI, platform conversion rates, creator rankings, and payment status.
-- Created a reusable campaign performance view and generated business insights from hundreds of campaign, content, and payment records.
-
-## Interview preparation
-Be ready to explain:
-- Why each table exists
-- How primary and foreign keys connect the database
-- Why LEFT JOIN was used in the campaign performance view
-- How ROI and conversion rates were calculated
-- How ROW_NUMBER differs from DENSE_RANK
-- What you would change if the dataset contained millions of rows
